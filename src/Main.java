@@ -3,9 +3,9 @@ public class Main {
         ProduktMenu p1 = new ProduktMenu("K-01", "Espresso", 9.0, "kawa");
         ProduktMenu p2 = new ProduktMenu("K-02", "Cappuccino", 13.5, "kawa");
         ProduktMenu p3 = new ProduktMenu("D-01", "Sernik", 16.0, "deser");
-//
-//        KlientKawiarni klient = new KlientKawiarni(100, "Julia", "Mazur", "j.mazur@mail.pl");
-//
+
+        KlientKawiarni klient = new KlientKawiarni(100, "Julia", "Mazur", "j.mazur@mail.pl");
+
 //        Zamowienie zamowienie = new Zamowienie(klient);
 //        zamowienie.dodajProdukt(p1);
 //        zamowienie.dodajProdukt(p2);
